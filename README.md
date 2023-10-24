@@ -23,3 +23,12 @@
 - :hankey: факт обо мне
 
 - :clown_face: факт обо мне
+
+### :hammer_and_wrench: Языки и инструменты :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="40" height="40"/>
+</div>
