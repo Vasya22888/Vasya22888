@@ -32,3 +32,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="40" height="40"/>
 </div>
+
+### :trophy: Достижения 
